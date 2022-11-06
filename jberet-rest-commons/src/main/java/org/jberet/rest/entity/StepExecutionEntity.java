@@ -11,7 +11,7 @@
 package org.jberet.rest.entity;
 
 import java.io.Serializable;
-import javax.batch.runtime.StepExecution;
+import jakarta.batch.runtime.StepExecution;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;

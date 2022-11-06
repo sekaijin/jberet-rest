@@ -12,8 +12,8 @@ package org.jberet.rest.entity;
 
 import java.io.Serializable;
 import java.util.List;
-import javax.batch.runtime.JobExecution;
-import javax.batch.runtime.JobInstance;
+import jakarta.batch.runtime.JobExecution;
+import jakarta.batch.runtime.JobInstance;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;

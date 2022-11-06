@@ -11,7 +11,7 @@
 package org.jberet.rest.entity;
 
 import java.io.Serializable;
-import javax.batch.runtime.Metric;
+import jakarta.batch.runtime.Metric;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
@@ -20,7 +20,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 /**
  * Represents a step execution metric, which includes metric type and metric value.
  *
- * @see javax.batch.runtime.Metric
+ * @see jakarta.batch.runtime.Metric
  *
  * @since 1.3.0
  */
